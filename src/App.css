@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+video {
+  display: block;
+  margin: auto;
+}
+
+b {
+    color: #99bbf3;
+}
+
+#video1 {
+  border-radius:100px;
+  }
+
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0)
+  }
+
+  100% {
+    transform: translateX(calc(-210px*16));
+  }
+}
+
+
+.slider {
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+  width: 90%;
+  height: 200px;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+}
+
+.slide-track {
+  display: flex;
+  width: calc(200px*16);
+  animation: scroll 300s linear infinite;
+}
+
+.slide-track:hover {
+  animation-play-state: paused;
+}
+
+.slide {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  perspective: 115px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .accordion {
+    width: 1200px;
+  }
+  
+  .accordion-title {
+    font-family: 'Press Start 2P', cursive;
+    display: flex;
+    font-size: 19px;
+    flex-direction: row;
+    color: #1f1f1f;
+    justify-content: space-between;
+    cursor: pointer;
+    background-color: #f0f0f0;
+    border-bottom: 2px solid #b4b4b4;
+    letter-spacing: 1px;
+  }
+  
+  .accordion-title:hover {
+    background-color: #ff9a18;
+  }
+  
+  .accordion-title,
+  .accordion-content {
+    padding: 1rem;
+  }
+  
+  .accordion-content {
+    background-color: #f0f0f0;
+    border-bottom: 2px solid #b4b4b4;
+    font-family: 'Press Start 2P', cursive;
+    color: #1f1f1f;
+    font-size: 17px;
+    line-height: 1.8;
+    letter-spacing: 1px;
+  }
+  
+  @media screen and (max-width: 700px) {
+    body {
+      font-size: 20px;
+    }
+  
+    .accordion {
+      width: 90%;
+    }
+  }
+
+  .team {
+    justify-content: center;
+  }
+
+  .tm:not(:first-child):not(:last-child) {
+    margin-left: 120px;
+    margin-right: 120px;
+  }
