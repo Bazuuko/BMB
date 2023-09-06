@@ -419,7 +419,8 @@ const handleOpensea = () => {
         style={{
               boxShadow: "2px 5px 5px 4px rgba(0,0,0,0.5)",
               width: "320px",
-              padding: 20
+              padding: 20,
+              marginLeft: "-40px",
             }}
             >
             MINT NOW
