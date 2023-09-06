@@ -511,6 +511,172 @@ const handleOpensea = () => {
             src={"/config/bmb/16.png"}
           />
           </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/17.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/18.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/19.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/20.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/21.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/22.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/23.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/24.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/25.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/26.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/27.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/28.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/29.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/30.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/31.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/32.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/33.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/34.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/35.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/36.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/37.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/38.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/39.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/40.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/41.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/42.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/43.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/44.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/45.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/46.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/47.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/48.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/49.png"}
+          />
+          </div>
+
 
       </div>
       </div>
@@ -933,6 +1099,172 @@ Based-Zoo DAO is a decentralized community governed by the holders of the BMB Ge
             src={"/config/bmb/16.png"}
           />
           </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/17.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/18.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/19.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/20.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/21.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/22.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/23.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/24.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/25.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/26.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/27.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/28.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/29.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/30.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/31.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/32.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/33.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/34.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/35.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/36.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/37.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/38.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/39.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/40.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/41.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/42.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/43.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/44.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/45.png"}
+          />
+          </div>
+          <div class="slide">
+          <StyledImg3
+            src={"/config/bmb/46.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/47.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/48.png"}
+          />
+          </div>
+<div class="slide">
+          <StyledImg3
+            src={"/config/bmb/49.png"}
+          />
+          </div>
+
 
       </div>
       </div>
